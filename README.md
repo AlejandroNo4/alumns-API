@@ -12,6 +12,6 @@
 
 ## Important ❗❗❗
 
-After clonning to work with the front end, to run use the command 
+After clonning to work with the front-end and run, use the command 
       
         rails s -p 3001
